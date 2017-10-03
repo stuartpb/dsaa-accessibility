@@ -22,7 +22,12 @@
 >
 > Douglas Adams, *The Hitchhiker's Guide to the Galaxy*
 
-*TODO: describe problem with existing communications: New Members/DMS on Facebook, Rocket Chat, Activist Listserv, various Twitter accounts*
+Right now, official DSA communiques are spread across a variety of forums, each with their own barriers to entry and use. To give an inexhaustive list:
+
+- Facebook, in the "New Members" group and in various group messages
+- The DSA RocketChat
+- The "activist" listserv
+- Various Twitter accounts
 
 There are three classes of DSA Forum that ought to exist:
 
