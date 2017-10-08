@@ -13,6 +13,23 @@ The operators of any venue of communication are responsible for communicating to
 - who moderates it,
 - and what the process for choosing what gets posted on it and what doesn't is (where applicable).
 
+## Control of Implementation and Access
+
+Primary business communiques (including event announcements) should be restricted to channels and forums that are controlled, at the highest levels possible, by the DSA. Proprietary and corporate-controlled venues, such as Facebook and Twitter, should not be used to conduct or communicate any official matters, except as rebroadcasts of material originally published through systems under the DSA's purview.
+
+This prevents communications being denied to members who refuse to engage with these machines of corporate control, and/or members that have been *denied* access to these sites (such as [those who have been banned from Twitter for antagonizing the accounts of people in power][Twitter bans]).
+
+[Twitter bans]: https://www.theverge.com/2017/2/24/14719828/twitter-account-lock-ban-swearing-abuse-moderation
+
+This also prevents outside interference with official communications, such as "algorithm tweaks" that may silence communications (as Facebook is known for doing to encourage monetized "promotions" of posts), or changes to critical features the organization has been relying upon without adequate notice or feedback (such as when [Twitter cancelled third-party clients' access to their API][Twitter API], or Facebook [removed Group capabilities from open-membership Groups by converting them to "Pages"][Groups to Pages]).
+
+[Twitter API]: https://techcrunch.com/2011/03/11/twitter-ecosystem-guidelines/
+[Groups to Pages]: https://www.lifewire.com/facebook-groups-4103720
+
+The extent that presence is extended to outside venues like Facebook should follow [Richard Stallman's guidelines for organizational presence on Facebook][rms-fbp].
+
+[rms-fbp]: https://stallman.org/facebook-presence.html
+
 ## Usability
 
 Forums for member participation must be intuitive and easy to understand to the average member. (Detailing mechanisms for objectively gauging intuition and ease of use on average are outside the scope of this document.)
