@@ -49,6 +49,6 @@ I can tell someone that something is "like Chesterton's Fence", they can highlig
 
 Point is, through new technology, **the primordia of revolution has fundamentally changed**. Like the printing press before it, one person can suddenly teach a million. But now, they can do it _with no expenditure of capital_. _Anybody_ can do this, and can direct others within it, _infinitely_.
 
-TODO: explain importance of accessibility in unlocking this power at scale, and how bad accessibility can and will nip the revolution in the bud
+However, while new technology offers the *potential* for all this great change, this potential can only be *realized* when all this information is *readily accessible* to the masses, to the undeclared and undiscovered individuals whose specific circumstances make them radically poised to make a difference *using* that information.
 
-TODO: bring it all home by explaining how proper Accessibility is the forerunner of Accountability
+Without proper, *ready* access to the avenues required to learn and participate at large, the knowledge to understand and communicate the shortcomings of the status quo to each other, and to illuminate potential ways for improvement - the changes that need to happen to improve our effectiveness will never materialize.
