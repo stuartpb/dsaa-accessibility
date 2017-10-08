@@ -21,9 +21,15 @@ Forums for member participation must be intuitive and easy to understand to the 
 
 In places where solutions may not be immediately intuitive, documentation should be reaily avaiable, with clear communication as to where and how the documentation should be consulted for an understanding of common tasks: for example, it's not adequate to tell a member looking for help in submitting a document for broadcast that they need to pore through the entirety of a two-hundred-page manual, or even a *twenty* page manual (if the whole of that manual isn't primarily dedicated to answering their question). Our members, who are usually volunteers working in the time spared from their day jobs, shouldn't be expected to shoulder the burden of finding answers where a more knowledgeable expert could provide an answer more quickly. Documentation should aim to take no more than ten minutes to convey how to accomplish any specific task.
 
-## ARIA Compliance et al
+## Ease of Access for the Differently-Abled
 
-*This space reserved for the suggestions of the Disability Task Force*
+Communications should never be presented in formats that unnecessarily make access more difficult for members with disabilities. For instance, if an announcement is distributed as part of a podcast, that announcement should be provided as a script or transcription, which makes it so access to its content is not a barrier for the hearing impaired.
+
+For interactive web applications, the work of the [World Wide Web Consortium Web Accessibility Initative][WAI] should be consulted to ensure adequate accessibility.
+
+[WAI]: https://www.w3.org/WAI/
+
+*This space reserved for the further suggestions of the Disability Task Force*
 
 ## Maintenance
 
