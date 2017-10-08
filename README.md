@@ -1,7 +1,4 @@
-This repository consists of three files:
+This repository consists of two files (apart from this README):
 
-- statement.md, A statement on what we're (generally) asking for and why we're asking for it
-
-- responsibilities.md, A document describing exactly the criteria that would be pass/fail for whatever the NPC settles on
-
-- reccomendations.md, A document with what I'd recommend to pass all the aforementioned criteria
+- statement.md, A broad essay on the importance of accessibility
+- responsibilities.md, A document describing the specific responsibilities of maintaining accessibility to be assessed in accountability
