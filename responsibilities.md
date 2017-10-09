@@ -50,7 +50,7 @@ For interactive web applications, the work of the [World Wide Web Consortium Web
 
 ## Maintenance
 
-Operators of communication channels are responsible
+Operators of communication channels are responsible for ensuring that the channels they operate remain operational and functionally available to all members, at all times.
 
 At a minimum, communications should have a [bus factor][] of at least 3 - that is to say, the site / component must be able to continue to function in the event that *any two specific members are removed from its operation*.
 
